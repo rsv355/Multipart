@@ -95,6 +95,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
+        //TODO just direct click on upolad, file url data is pending
     }
 
     public void openGallery(int req_code){
